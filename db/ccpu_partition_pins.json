@@ -1,0 +1,273 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Done",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BusWires[7]",
+					"strict" : false
+				},
+				{
+					"name" : "T[3]",
+					"strict" : false
+				},
+				{
+					"name" : "T[2]",
+					"strict" : false
+				},
+				{
+					"name" : "T[1]",
+					"strict" : false
+				},
+				{
+					"name" : "T[0]",
+					"strict" : false
+				},
+				{
+					"name" : "I[3]",
+					"strict" : false
+				},
+				{
+					"name" : "I[2]",
+					"strict" : false
+				},
+				{
+					"name" : "I[1]",
+					"strict" : false
+				},
+				{
+					"name" : "I[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Extern",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FuncReg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FRin",
+					"strict" : false
+				},
+				{
+					"name" : "Xreg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Xreg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Xreg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Xreg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q[7]",
+					"strict" : false
+				},
+				{
+					"name" : "q[8]",
+					"strict" : false
+				},
+				{
+					"name" : "q[9]",
+					"strict" : false
+				},
+				{
+					"name" : "q[10]",
+					"strict" : false
+				},
+				{
+					"name" : "q[11]",
+					"strict" : false
+				},
+				{
+					"name" : "q[12]",
+					"strict" : false
+				},
+				{
+					"name" : "q[13]",
+					"strict" : false
+				},
+				{
+					"name" : "q[14]",
+					"strict" : false
+				},
+				{
+					"name" : "q[15]",
+					"strict" : false
+				},
+				{
+					"name" : "w",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "F[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "F[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Ry[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Ry[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Rx[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Rx[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "address[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

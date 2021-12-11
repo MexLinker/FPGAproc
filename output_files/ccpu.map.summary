@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 10 15:40:50 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : ccpu
+Top-level Entity Name : ccpu
+Family : Cyclone IV E
+Total logic elements : 126
+    Total combinational functions : 88
+    Dedicated logic registers : 56
+Total registers : 56
+Total pins : 66
+Total virtual pins : 0
+Total memory bits : 256
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

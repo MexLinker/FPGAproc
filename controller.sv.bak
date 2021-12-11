@@ -1,0 +1,15 @@
+module controller(on, ifDone, clk, ins, en, );
+
+	input on, ifDone, clk;
+	
+	
+	
+	
+	
+	
+	theROM rom1 (address, clk, q);
+	
+	
+	
+
+endmodule
